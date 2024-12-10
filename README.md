@@ -19,3 +19,8 @@ With our current architecture, we’ve achieved a very high accuracy and a low l
 
 # RIASEC Test
 ![image](https://github.com/user-attachments/assets/62c97eaa-b2bd-4376-9213-82f888e7f1f2)
+
+# Documentation
+- [Dataset](https://github.com/PathXplorer-C242-PS289/MachineLearning/blob/main/data/riasec/labeled-data.csv)
+- [Model](https://github.com/PathXplorer-C242-PS289/MachineLearning/blob/main/multi-class-model.ipynb)
+- [Model TFLite](https://github.com/PathXplorer-C242-PS289/MachineLearning/blob/main/model.tflite)
