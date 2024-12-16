@@ -24,3 +24,4 @@ With our current architecture, we’ve achieved a very high accuracy and a low l
 - [Dataset](https://github.com/PathXplorer-C242-PS289/MachineLearning/blob/main/data/riasec/labeled-data.csv)
 - [Model](https://github.com/PathXplorer-C242-PS289/MachineLearning/blob/main/multi-class-model.ipynb)
 - [Model TFLite](https://github.com/PathXplorer-C242-PS289/MachineLearning/blob/main/model.tflite)
+- [PathXplorer App](https://drive.google.com/file/d/1r0uEL4sVk2XHaKdOyaXc7g8hePrRD9Ny/view?usp=drivesdk)
